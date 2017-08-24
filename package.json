@@ -1,0 +1,26 @@
+{
+  "name": "@ybq/p-cancelable",
+  "version": "1.0.0",
+  "description": "A cancelable promise.",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yubaoquan/p-cancelable.git"
+  },
+  "keywords": [
+    "promise",
+    "cancelable"
+  ],
+  "author": "yubaoquan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yubaoquan/p-cancelable/issues"
+  },
+  "homepage": "https://github.com/yubaoquan/p-cancelable#readme",
+  "devDependencies": {
+    "ava": "^0.22.0"
+  }
+}
