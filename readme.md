@@ -1,6 +1,7 @@
 # CancelablePromise
 
 [![Build Status](https://travis-ci.org/yubaoquan/p-cancelable.svg?branch=master)](https://travis-ci.org/yubaoquan/p-cancelable)
+[![Coverage Status](https://coveralls.io/repos/github/yubaoquan/p-cancelable/badge.svg?branch=master)](https://coveralls.io/github/yubaoquan/p-cancelable?branch=master)
 
 Promise that can be canceled, learned from [sindresorhus/p-cancelable](https://github.com/sindresorhus/p-cancelable).
 
