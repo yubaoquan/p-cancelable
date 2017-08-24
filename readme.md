@@ -1,5 +1,7 @@
 # CancelablePromise
 
+[![Build Status](https://travis-ci.org/yubaoquan/p-cancelable.svg?branch=master)](https://travis-ci.org/yubaoquan/p-cancelable)
+
 Promise that can be canceled, learned from [sindresorhus/p-cancelable](https://github.com/sindresorhus/p-cancelable).
 
 The difference from sindresorhus version is that CancelablePromise in this lib is not a subclass of Promise.
