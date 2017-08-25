@@ -7,3 +7,6 @@ script:
     - npm test
 after_success:
     - npm run coverage
+notifications:
+  email:
+    - yuyuyubq@163.com
